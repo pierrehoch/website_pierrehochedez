@@ -1,6 +1,6 @@
-site_name: Your Site Name
-site_description: Your site description
-site_url: https://yourdomain.com
+site_name: Pierre Hochedez
+site_description: AI Solutions Engineer - Implementing AI capabilities for competitive advantage
+site_url: https://pierrehochedez.com
 
 nav:
   - Home:
@@ -8,10 +8,17 @@ nav:
   - Case Studies:
     - Overview: portfolio/index.md
     - Projects:
-      - portfolio/projects/project-1.md
-      - portfolio/projects/project-2.md
+      - RAG Chatbot: portfolio/projects/project-1.md
+      - Pricing Model: portfolio/projects/project-2.md
+      - ChatLegalIA: portfolio/projects/project-3.md
+      - Energy Prediction: portfolio/projects/project-4.md
   - Blog:
-    - blog/index.md 
+    - Overview: blog/index.md
+    - Posts:
+      - Building Effective RAG Systems: blog/posts/building-effective-rag-systems.md
+      - GDPR Compliance for AI Tools: blog/posts/gdpr-compliance-ai-tools.md
+      - UV Python Package Manager: blog/posts/uv-python-package-manager.md
+      - Cursor Code Workspace: blog/posts/cursor-code-workspace-files.md
 
 theme:
   name: material
@@ -51,14 +58,10 @@ theme:
 extra:
   generator: true
   social:
-    - icon: fontawesome/solid/building
-      link: https://company.com
-    - icon: fontawesome/brands/github
-      link: https://github.com/
-    - icon: fontawesome/brands/youtube
-      link: https://youtube.com/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/
   analytics:
     # provider: google
     # property: G-W9Y130NXVZ
@@ -102,4 +105,4 @@ extra_files:
   - docs/robots.txt
 
 copyright: |
-  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">John Doe</a>. All rights reserved.
+  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">Pierre Hochedez</a>. All rights reserved.

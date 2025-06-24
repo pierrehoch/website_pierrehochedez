@@ -1,85 +1,88 @@
 ---
-title: Enterprise Chatbot for Company Y
-description: Development of a private ChatGPT-like tool for analyzing mobility data and policy evaluation in the public sector
+title: Pricing Model for E-Commerce Margin Optimization
+description: Development of an automated pricing model for a large e-commerce platform to optimize gross margin across their extensive product catalog
 ---
 
-# Enterprise Chatbot for the Company Y
-
-??? tip "Portfolio Best Practices"
-    This is a simplified example project. When creating your own portfolio:
-    
-    - Include detailed technical challenges and how you solved them
-    - Add specific metrics and KPIs that demonstrate impact
-    - Show code snippets of interesting implementations
-    - Include architecture diagrams and system designs
-    - Document your decision-making process
-    - Highlight your specific contributions to the project
-    - Add visuals of the final product (if possible)
+# Pricing Model for E-Commerce Margin Optimization
 
 !!! abstract "Case Study Summary"
-    **Client**: Dev X  
-    **Website**: [devx.com](https://devx.com)  
-    **Industry**: Software Development  
+    **Client**: Toner Service  
+    **Industry**: E-Commerce  
+    **Duration**: December 2023 - June 2024 (6 months)
     
-    **Impact Metrics**:
+    **Technologies**:
     
-    - 90% reduction in customer service overhead (projected)
-    - 100% accuracy on initial evaluation datasets
-    - < 3 second response time for customer inquiries
-    - Successfully transitioned 12 CSRs to account management roles
-    - $240,000 annual cost savings in customer support operations
-
-Company Y an AI project featuring a private ChatGPT-like tool, streamlining mobility data analysis and advancing digital innovation in public sector policy evaluation.
+    - Machine Learning
+    - Time Series Analysis
+    - Python
+    - Data Analytics
+    - Price Optimization Algorithms
 
 ## Challenge
 
-The regional data team at Company Y faced the challenge of analyzing complex mobility data, including cars, bridges, traffic, and cyclists. Tasked with assessing policy compliance and the impact of changes, they struggled with data scattered across multiple systems, such as the Dexter portal's structured SQL data and various policy documents. This dispersion made analysis laborious, prompting the Province to explore how digitization and AI could streamline the process and foster innovation.
+The client, an e-commerce company with a vast product catalog, was setting prices primarily through manual processes. This approach was:
 
-## Our Approach
+- Extremely time-consuming for the product team
+- Inconsistent in application across different product categories
+- Unable to react quickly to market changes or seasonality effects
+- Suboptimal for maximizing potential gross margin
 
-To tackle this challenge, we developed a custom-built AI solution similar to a "private version of ChatGPT." This tool was designed to access and analyze large volumes of PDF documents and structured data exported from the Dexter database. By enabling a ChatGPT-like interaction, users could query this diverse data pool in a conversational manner, leveraging the AI to gain company-specific insights.
+They needed an automated, data-driven solution that could optimize pricing decisions at scale while considering multiple factors that impact sales performance.
 
-## Results & Impact
+## Solution
 
-- Successfully integrated structured SQL data and unstructured PDF documents
-- Featured in major company meetings
-- Enabled conversational querying of complex mobility data
-- Streamlined policy compliance assessment
-- Enhanced decision-making through comprehensive data analysis
+### Automated Pricing Intelligence System
 
-## Solution Overview
+I developed a sophisticated pricing model that:
 
-![Architecture Diagram](../../assets/openai-end-to-end-aml-deployment.svg)
+1. **Automatically Estimates Optimal Pricing**: Uses historical data to determine price points that maximize gross margin for each product.
 
-*Baseline OpenAI end-to-end chat reference architecture*
+2. **Incorporates Seasonality**: Recognizes and adapts to seasonal patterns in demand, adjusting pricing recommendations accordingly.
 
-## Tech Stack
+3. **Analyzes Sales Elasticity**: Determines how sensitive each product's demand is to price changes, allowing for more precise optimization.
 
-- OpenAI
-- Pinecone vector database
-- Microsoft Azure cloud infrastructure
-- Python backend services
-- FastAPI for RESTful endpoints
-- Docker containerization
-- GitHub Actions for CI/CD pipeline
+4. **Provides Actionable Recommendations**: Delivers clear pricing recommendations to product managers through an intuitive dashboard.
 
-## Additional Context
+### Data-Driven Approach
 
-- Timeline: 3 months
-- Team Size: 2 people
-- Role: AI Engineer
-- Expertise in custom chatbot development
-- Specialization in retrieval-augmented generation
-- Focus on OpenAI model integration
+The solution leveraged several data sources and techniques:
 
-<div class="grid cards" style="margin-top: 3rem" markdown>
+- **Historical Transaction Data**: Analysis of past sales to understand price-demand relationships.
 
--   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+- **Competitor Pricing**: Integration of market positioning data to maintain competitive price points.
 
-    ---
-    
-    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
+- **Product Lifecycle Stage**: Adjustment of pricing strategies based on whether products are new, mature, or declining.
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+- **Inventory Levels**: Consideration of stock levels to help price products optimally for inventory management.
 
-</div>
+## Technical Implementation
+
+The system architecture included:
+
+- **Data Pipeline**: Automated extraction and processing of sales data, competitor information, and inventory levels.
+
+- **Machine Learning Models**: Implementation of multiple predictive models to estimate demand at different price points.
+
+- **Optimization Algorithm**: Development of a custom algorithm to find the profit-maximizing price point for each product.
+
+- **Admin Dashboard**: Creation of a user interface allowing product managers to review and apply recommendations.
+
+- **A/B Testing Framework**: Implementation of a testing system to verify the effectiveness of new pricing strategies.
+
+## Results
+
+The pricing model delivered significant business impact:
+
+- **Gross Margin Improvement**: Achieved a 14% increase in average gross margin across optimized product categories.
+
+- **Time Savings**: Reduced pricing decision time by 85%, freeing product managers for more strategic tasks.
+
+- **Inventory Optimization**: Improved inventory turnover by 22% through more effective pricing strategies.
+
+- **Pricing Consistency**: Established consistent pricing logic across the entire product catalog.
+
+- **Reaction Time**: Enabled rapid response to market changes and competitor pricing movements.
+
+## Conclusion
+
+This project demonstrates how data science and machine learning can transform traditional pricing processes into a strategic advantage. By automating pricing decisions with intelligent algorithms, the e-commerce company was able to simultaneously improve margins, save time, and create a more consistent customer experience.
