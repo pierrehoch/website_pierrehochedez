@@ -1,9 +1,9 @@
 ---
-title: ChatLegalIA - AI Agents for Legal Documentation
+title: AI Agents for Legal Documentation
 description: Design and implementation of AI agents capable of automatically identifying relevant legal sources and integrating them into generated legal documents
 ---
 
-# ChatLegalIA: AI Agents for Legal Documentation
+# AI Agents for Legal Documentation
 
 !!! abstract "Case Study Summary"
     **Duration**: March 2025 - May 2025 (2 months)  

@@ -6,7 +6,7 @@ description: Development of a machine learning model to predict customer energy 
 # Predictive Model for an Electricity Provider
 
 !!! abstract "Case Study Summary"
-    **Client**: Octopus (formerly Plüme Energy)  
+    **Client**: OE
     **Industry**: Energy / Utilities  
     **Duration**: October 2022 - May 2023 (7 months)  
     

@@ -6,7 +6,7 @@ description: Development of an intelligent chatbot based on Retrieval-Augmented 
 # RAG Chatbot for a Digital Company
 
 !!! abstract "Case Study Summary"
-    **Client**: Discover Me  
+    **Client**: DM  
     **Industry**: Personal Development / Digital Wellness  
     **Duration**: September 2024 - February 2025 (5 months)
     

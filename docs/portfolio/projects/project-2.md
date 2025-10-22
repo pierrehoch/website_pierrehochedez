@@ -6,7 +6,7 @@ description: Development of an automated pricing model for a large e-commerce pl
 # Pricing Model for E-Commerce Margin Optimization
 
 !!! abstract "Case Study Summary"
-    **Client**: Toner Service  
+    **Client**: TS  
     **Industry**: E-Commerce  
     **Duration**: December 2023 - June 2024 (6 months)
     
