@@ -12,13 +12,13 @@ nav:
       - Pricing Model: portfolio/projects/project-2.md
       - ChatLegalIA: portfolio/projects/project-3.md
       - Energy Prediction: portfolio/projects/project-4.md
-  - Blog:
-    - Overview: blog/index.md
-    - Posts:
-      - Building Effective RAG Systems: blog/posts/building-effective-rag-systems.md
-      - GDPR Compliance for AI Tools: blog/posts/gdpr-compliance-ai-tools.md
-      - UV Python Package Manager: blog/posts/uv-python-package-manager.md
-      - Cursor Code Workspace: blog/posts/cursor-code-workspace-files.md
+  # - Blog:
+  #   - Overview: blog/index.md
+  #   - Posts:
+  #     - Building Effective RAG Systems: blog/posts/building-effective-rag-systems.md
+  #     - GDPR Compliance for AI Tools: blog/posts/gdpr-compliance-ai-tools.md
+  #     - UV Python Package Manager: blog/posts/uv-python-package-manager.md
+  #     - Cursor Code Workspace: blog/posts/cursor-code-workspace-files.md
 
 theme:
   name: material
@@ -49,8 +49,8 @@ theme:
       primary: custom
       accent: custom
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: Inter
+    code: Inter  # or keep as "Roboto Mono" if you prefer a monospace font for code
   icon:
     logo: material/slash-forward-box
   favicon: assets/favicon.png

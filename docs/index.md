@@ -31,19 +31,21 @@ canonical_url: https://pierrehochedez.com/
 
 <div class="text-intro-grid" markdown>
 
-# Implementing AI capabilities for competitive advantage
+# AI Solutions That Drive Business Results
 
-### I work with small to medium-sized companies sensing that AI may help unlock opportunities in their field
+> I partner with ambitious businesses to implement AI systems that deliver measurable impact and competitive advantage.
 
-- From quick AI-powered systems to production-ready tools tailored to your specific needs
+**✨ What I deliver:**
 
-- Privacy-first AI solutions ensuring GDPR compliance and data security
+:fontawesome-solid-rocket:{ .hero-icon } Production-ready AI systems designed for your specific needs  
+:fontawesome-solid-shield-halved:{ .hero-icon } Privacy-first solutions ensuring complete data security  
+:fontawesome-solid-brain:{ .hero-icon } Expert RAG systems, chatbots, and intelligent automation  
+:fontawesome-solid-code:{ .hero-icon } Full-stack integration with your existing technology stack
 
-- Expert in RAG systems, AI chatbots, and custom AI automation
-
-- Full-stack development integrating AI solutions into your existing systems
-
-[Book Discovery Session :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+<div class="hero-cta" markdown>
+[Book Discovery Call :material-arrow-top-right:](https://calendly.com/pierre-hochedez/discussion-30min){ .md-button .md-button--primary target="_blank" }
+[View Case Studies :material-file-document:](portfolio/){ .md-button }
+</div>
 
 </div>
 
@@ -57,70 +59,131 @@ canonical_url: https://pierrehochedez.com/
 
 ## About me
 
-Hi! I'm Pierre, an AI Solutions Engineer based in Paris, France. I graduated from Télécom Paris with extensive training in physics and mathematics, complemented by a master's degree from Paris Dauphine University specializing in network regulation and digital economics. Since 2021, I've been working as a freelance data scientist and generative AI specialist, collaborating with clients across various industries including e-commerce, retail, food, personal development, energy, and the pharmaceutical sector.
+Hi! I'm Pierre, an AI Solutions Engineer based in Paris, France. With a background from Télécom Paris and Paris Dauphine University, I've been helping businesses harness the power of generative AI since 2021.
 
-I specialize in creating secure AI applications that respect data privacy, particularly for companies dealing with sensitive information. My expertise spans the full AI implementation journey - from quick prototypes to production-ready tools, always built with your specific business needs in mind.
+I specialize in creating secure AI applications that respect data privacy, working across industries from e-commerce to healthcare. My expertise spans the full AI implementation journey - from rapid prototypes to production-ready systems that integrate seamlessly with your existing infrastructure.
+
+<div class="stats-grid" markdown>
+
+<div class="stat-item" markdown>
+<span class="stat-number">4+ Years</span>  
+AI & Data Science Experience
+</div>
+
+<div class="stat-item" markdown>
+<span class="stat-number">9+ Projects</span>  
+Successfully Delivered
+</div>
+
+<div class="stat-item" markdown>
+<span class="stat-number">100% GDPR</span>  
+Compliant Solutions
+</div>
+
+</div>
 
 ## Why work with me?
 
-Here's how I can help drive value for your business:
+<div class="value-props" markdown>
 
-<div class="grid cards" markdown>
+<div class="value-prop" markdown>
+:fontawesome-solid-shield-halved:{ .value-icon } 
 
--   :fontawesome-solid-shield-halved:{ .lg .middle } Privacy-First AI Solutions
+**Privacy-First AI Solutions**  
+Secure LLM implementations with GDPR compliance, ensuring your sensitive data remains protected and under your control.
+</div>
 
-    I specialize in implementing LLMs in environments that ensure the security and control of company data. I actively study GDPR compliance of AI tools, which is crucial when working with sensitive information that cannot be exposed without strict confidentiality guarantees.
+<div class="value-prop" markdown>
+:material-brain:{ .value-icon } 
 
--   :material-brain:{ .lg .middle } Full-Stack AI Experience
+**Full-Stack AI Expertise**  
+End-to-end solutions from backend processing to user interfaces, using Python, JavaScript, React, FastAPI, and modern AI frameworks.
+</div>
 
-    With expertise in Python, JavaScript/TypeScript, React, FastAPI, Flask, langchain, Hugging Face, and more, I build complete solutions from backend processing to user-friendly interfaces. This end-to-end expertise ensures seamless integration with your existing systems.
+<div class="value-prop" markdown>
+:material-chart-timeline-variant:{ .value-icon } 
 
--   :material-chart-timeline-variant:{ .lg .middle } Data-Driven Impact
+**Measurable Business Impact**  
+Every solution is designed to deliver ROI - from optimizing pricing models to automating processes with AI agents.
+</div>
 
-    Every solution I build is designed to deliver measurable business impact. Whether it's optimizing pricing models, predicting customer behavior, or automating processes with AI agents, I focus on creating systems that drive real ROI.
+<div class="value-prop" markdown>
+:material-rocket-launch:{ .value-icon } 
 
--   :material-rocket-launch:{ .lg .middle } Customized Implementation
-
-    Each business has unique challenges. I take the time to understand your specific needs and develop tailored AI solutions that address your particular pain points, rather than applying one-size-fits-all approaches.
+**Tailored Implementation**  
+Custom AI solutions that address your specific challenges, not one-size-fits-all approaches.
+</div>
 
 </div>
 
 ## Services
 
-Here's how I can help your business leverage AI:
+<div class="services-grid" markdown>
 
-<div class="grid cards" markdown>
+<div class="service-card" markdown>
+:material-magnify:{ .service-icon }
 
--   :material-magnify:{ .lg .middle } Discovery Session
+**Discovery & Strategy**  
+Comprehensive analysis of your data and processes to identify high-impact AI opportunities with clear ROI projections.
+</div>
 
-    A thorough analysis of your support data and processes to identify the most promising AI automation opportunities. We'll evaluate potential ROI and develop a strategic implementation roadmap.
+<div class="service-card" markdown>
+:material-robot:{ .service-icon }
 
--   :material-robot:{ .lg .middle } Custom AI System Design
+**Custom AI Development**  
+RAG chatbots, predictive models, and automation tools tailored to your knowledge base and seamlessly integrated with your infrastructure.
+</div>
 
-    Development of AI systems tailored to your knowledge base and processes, including RAG chatbots, predictive models, and AI-powered automation tools that integrate seamlessly with your existing infrastructure.
+<div class="service-card" markdown>
+:material-cog-refresh:{ .service-icon }
 
--   :material-cog-refresh:{ .lg .middle } Implementation & Integration
+**Implementation & Deployment**  
+End-to-end deployment on cloud platforms (AWS, Azure) with database integration and monitoring systems.
+</div>
 
-    Seamless deployment of AI solutions that work with your current tech stack. From cloud services (AWS, Azure) to database integration (PostgreSQL, Vector Databases), I ensure smooth technical implementation.
+<div class="service-card" markdown>
+:material-chart-bell-curve-cumulative:{ .service-icon }
 
--   :material-chart-bell-curve-cumulative:{ .lg .middle } Optimization & Refinement
-
-    Continuous improvement of your AI systems through monitoring, performance analysis, and iterative enhancements to improve accuracy and effectiveness over time.
+**Optimization & Support**  
+Continuous improvement through performance monitoring, accuracy refinement, and iterative enhancements.
+</div>
 
 </div>
 
-## Technical Expertise
+## Technical Stack
 
-<div class="grid" markdown>
+<div class="tech-stack" markdown>
 
-- **Languages & Libraries:** Python, JavaScript/TypeScript, React, FastAPI, Flask, langchain, Hugging Face, pydantic, pydanticAI
+<div class="tech-category" markdown>
+**Languages & Frameworks**  
+Python • JavaScript/TypeScript • React • FastAPI • Flask • langchain • Hugging Face • pydantic
+</div>
 
-- **Systems & Databases:** AI Agents automation, RAG, Vector Databases, PostgreSQL, Supabase, Firebase
+<div class="tech-category" markdown>
+**AI & Data**  
+RAG Systems • Vector Databases • PostgreSQL • Supabase • AI Agents • OpenAI • Claude • Llama
+</div>
 
-- **Cloud & Deployment:** AWS Lambda serverless, AWS cloud, Azure, Azure Open AI, Databricks, Docker
+<div class="tech-category" markdown>
+**Cloud & Infrastructure**  
+AWS Lambda • Azure • Databricks • Docker • Serverless Architecture
+</div>
 
-- **LLMs:** OpenAI, Claude, Perplexity, Gemini, Open Source models (Llama, Gemini, Whisper, Microsoft), Hugging Face models
+<div class="tech-category" markdown>
+**Automation Tools**  
+n8n • Make • Zapier • Custom API Integration
+</div>
 
-- **No-code Tools:** n8n, Make, Zapier
+</div>
+
+---
+
+<div class="final-cta" markdown>
+
+## Ready to Transform Your Business with AI?
+
+Let's discuss how AI can drive results for your specific business needs.
+
+[Schedule a Discovery Call](https://calendly.com/pierre-hochedez/discussion-30min){ .md-button .md-button--primary .cta-button target="_blank" }
 
 </div>
