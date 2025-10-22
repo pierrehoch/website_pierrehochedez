@@ -21,7 +21,7 @@ Welcome to my portfolio of AI engineering projects. Each case study highlights m
 
     Created an automated pricing model for an e-commerce company to optimize gross margin across their extensive product catalog. The solution considers seasonality and historical sales data to determine optimal pricing, replacing a manual, time-consuming process.
 
--   [ChatLegalIA: AI Agents for Legal Documentation](projects/project-3.md)
+-   [AI Agents for Legal Documentation](projects/project-3.md)
 
     ---
 

@@ -74,7 +74,7 @@ The system architecture included several key components:
 
 ## Results
 
-The ChatLegalIA system delivered significant value:
+The AI system delivered significant value:
 
 - **Time Efficiency**: Reduced research time for legal document preparation by up to 70%.
 
@@ -86,4 +86,4 @@ The ChatLegalIA system delivered significant value:
 
 ## Conclusion
 
-This project demonstrates the powerful application of AI agent technology and hybrid search strategies in the legal domain. By combining traditional search techniques with modern vector embeddings and carefully selected LLMs, ChatLegalIA provides legal professionals with an invaluable tool for document preparation that saves time while maintaining the high standards of accuracy required in legal work.
+This project demonstrates the powerful application of AI agent technology and hybrid search strategies in the legal domain. By combining traditional search techniques with modern vector embeddings and carefully selected LLMs, the product provides legal professionals with an invaluable tool for document preparation that saves time while maintaining the high standards of accuracy required in legal work.
